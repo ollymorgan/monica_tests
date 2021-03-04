@@ -1,6 +1,9 @@
 .r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
 set_plot,'NULL'
 exp1=['HET11_DIS_UNI_NIR_00','HET21_DIS_UNI_RED_00','HET31_DIS_UNI_NIR_60','HET41_DIS_UNI_NIR_60']
+;mod Olly original does not work
+exp1=['HET01_DIS_UNI_RED_20', 'HET01_DIS_UNI_RED_50', 'HET01_DIS_UNI_NIR_20', 'HET01_DIS_UNI_NIR_50']
+
 
 MEASLIST=['brfpp','fabs','brfop']
 
