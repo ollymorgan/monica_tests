@@ -11,13 +11,18 @@ exp6=['HET03_STO_UNI_NIR_40','HET05_STO_UNI_NIR_20']
 
 MEASLIST=['brf1','brfop_co_sgl','brfop_uc_sgl','brfpp_co_sgl','brfop','brfop_mlt','brfpp','brfpp_mlt','brfpp_uc_sgl']
 
-USR_INDIR=['/srv/www/htdocs/ROMC/WWW/UPLOAD/USERS/disneym/drat/270307105230/DATA/']
-REF_INDIR='/srv/www/htdocs/ROMC/DATA/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HET/'
+USR_INDIR=['/home/robusmo/ROMC/WWW/UPLOAD/USERS/disneym/drat/270307105230/DATA/']
+REF_INDIR='/home/robusmo/ROMC/DATA/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HET/'
+
 OUTDIR='/srv/www/htdocs/ROMC/WWW/UPLOAD/USERS/disneym/drat/270307105230/RESULT/'
 OUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/disneym/IDL/'
 PYOUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/disneym/python/'
 VALEXPFILE='/srv/www/htdocs/ROMC/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
 VALMESFILE='/srv/www/htdocs/ROMC/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
+
+VALEXPFILE='/home/robusmo/ROMC/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
+VALMESFILE='/home/robusmo/ROMC/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
+
 REFTAG='drat_270307105230'
 REFMODNM='ROMCREF'
 MODELNM=['drat']

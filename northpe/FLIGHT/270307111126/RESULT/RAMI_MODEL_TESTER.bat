@@ -8,13 +8,13 @@ exp3=['HET01_DIS_UNI_RED_50','HET02_TUR_UNI_RED_50']
 
 MEASLIST=['brf1','brfop_co_sgl','brfop_uc_sgl','brfpp_mlt','brfpp_uc_sgl','brfop','brfop_mlt','brfpp_co_sgl','brfpp','fabs','ftran']
 
-USR_INDIR=['/srv/www/htdocs/ROMC/WWW/UPLOAD/USERS/northpe/FLIGHT/270307111126/DATA/']
-REF_INDIR='/srv/www/htdocs/ROMC/DATA/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HET/'
+USR_INDIR=['/home/robusmo/ROMC/WWW/UPLOAD/USERS/northpe/FLIGHT/270307111126/DATA/']
+REF_INDIR='/home/robusmo/ROMC/DATA/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HET/'
 OUTDIR='/srv/www/htdocs/ROMC/WWW/UPLOAD/USERS/northpe/FLIGHT/270307111126/RESULT/'
 OUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/northpe/IDL/'
 PYOUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/northpe/python/'
-VALEXPFILE='/srv/www/htdocs/ROMC/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
-VALMESFILE='/srv/www/htdocs/ROMC/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
+VALEXPFILE='/home/robusmo/ROMC/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
+VALMESFILE='/home/robusmo/ROMC/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
 REFTAG='FLIGHT_270307111126'
 REFMODNM='ROMCREF'
 MODELNM=['FLIGHT']
