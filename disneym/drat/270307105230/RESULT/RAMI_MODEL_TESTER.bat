@@ -1,4 +1,5 @@
-.r /srv/www/htdocs/ROMC/CODE/IDL/RAMI_MODEL_TESTER.pro
+;.r /srv/www/htdocs/ROMC/CODE/IDL/RAMI_MODEL_TESTER.pro
+.r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
 
 set_plot,'NULL'
 exp1=['HET05_STO_UNI_RED_50','HET01_DIS_UNI_RED_50','HET01_DIS_UNI_NIR_20']
