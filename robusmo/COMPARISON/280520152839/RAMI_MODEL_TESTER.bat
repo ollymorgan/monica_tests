@@ -1,4 +1,6 @@
-.r /home/robusmo/ROMC/code/RAMI_MODEL_TESTER.pro
+;.r /home/robusmo/ROMC/code/RAMI_MODEL_TESTER.pro
+.r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
+
 set_plot,'NULL'
 exp1=['HET01_DIS_UNI_NIR_20']
 

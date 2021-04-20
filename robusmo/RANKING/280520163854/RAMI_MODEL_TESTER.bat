@@ -1,4 +1,6 @@
-.r /home/robusmo/ROMC/code/ROMC_MODEL_RANKS.pro
+;.r /home/robusmo/ROMC/code/ROMC_MODEL_RANKS.pro
+.r /home/morgaol/ROMC/IDL/ROMC_MODEL_RANKS.pro
+
 rootdir='/home/robusmo/ROMC/testDeploy/input/'
 set_plot,'NULL'
 modelnm1=['FLIGHT','drat']
