@@ -11,7 +11,7 @@ exp6=['HET03_STO_UNI_NIR_40','HET05_STO_UNI_NIR_20']
 
 MEASLIST=['brf1','brfop_co_sgl','brfop_uc_sgl','brfpp_co_sgl','brfop','brfop_mlt','brfpp','brfpp_mlt','brfpp_uc_sgl']
 
-USR_INDIR=['/home/robusmo/ROMC/WWW/UPLOAD/USERS/disneym/drat/270307105230/DATA/']
+USR_INDIR=['/home/robusmo/ROMC/testDeploy/input/disneym/drat/270307105230/DATA/']
 REF_INDIR='/home/robusmo/ROMC/DATA/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HET/'
 
 OUTDIR='/srv/www/htdocs/ROMC/WWW/UPLOAD/USERS/disneym/drat/270307105230/RESULT/'

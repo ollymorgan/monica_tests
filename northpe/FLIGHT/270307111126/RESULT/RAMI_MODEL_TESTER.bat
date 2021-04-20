@@ -8,7 +8,7 @@ exp3=['HET01_DIS_UNI_RED_50','HET02_TUR_UNI_RED_50']
 
 MEASLIST=['brf1','brfop_co_sgl','brfop_uc_sgl','brfpp_mlt','brfpp_uc_sgl','brfop','brfop_mlt','brfpp_co_sgl','brfpp','fabs','ftran']
 
-USR_INDIR=['/home/robusmo/ROMC/WWW/UPLOAD/USERS/northpe/FLIGHT/270307111126/DATA/']
+USR_INDIR=['/home/robusmo/ROMC/testDeploy/input/northpe/FLIGHT/270307111126/DATA/']
 REF_INDIR='/home/robusmo/ROMC/DATA/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HET/'
 OUTDIR='/srv/www/htdocs/ROMC/WWW/UPLOAD/USERS/northpe/FLIGHT/270307111126/RESULT/'
 OUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/northpe/IDL/'
