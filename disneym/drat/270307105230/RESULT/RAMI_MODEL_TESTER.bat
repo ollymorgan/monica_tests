@@ -2,14 +2,15 @@
 .r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
 
 set_plot,'NULL'
-exp1=['HET05_STO_UNI_RED_50','HET01_DIS_UNI_RED_50','HET01_DIS_UNI_NIR_20']
-exp2=['HET05_STO_UNI_NIR_50','HET04c5_DIS_UNI_NIR_20','HET01_DIS_UNI_NR1_50']
+exp1=['HET05_STO_UNI_RED_50'] ;,'HET01_DIS_UNI_RED_50','HET01_DIS_UNI_NIR_20']
+exp2=['HET05_STO_UNI_NIR_50']  ; ,'HET04c5_DIS_UNI_NIR_20','HET01_DIS_UNI_NR1_50']
 exp3=['HET01_DIS_UNI_RED_20','HET04b5_DIS_UNI_NIR_20','HET01_DIS_UNI_NIR_50']
 exp4=['HET04a1_DIS_UNI_NIR_20','HET06_STO_UNI_RED_40','HET01_DIS_UNI_NR1_20']
 exp5=['HET03_STO_UNI_RED_40','HET05_STO_UNI_RED_20','HET06_STO_UNI_NIR_40']
 exp6=['HET03_STO_UNI_NIR_40','HET05_STO_UNI_NIR_20']
 
-MEASLIST=['brf1','brfop_co_sgl','brfop_uc_sgl','brfpp_co_sgl','brfop','brfop_mlt','brfpp','brfpp_mlt','brfpp_uc_sgl']
+
+MEASLIST=['brfop_co_sgl','brfop_uc_sgl','brfpp_co_sgl','brfop','brfop_mlt','brfpp','brfpp_mlt','brfpp_uc_sgl']  ;'brf1',
 
 USR_INDIR=['/home/robusmo/ROMC/testDeploy/input/disneym/drat/270307105230/DATA/']
 REF_INDIR='/home/robusmo/ROMC/DATA/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HET/'
@@ -29,7 +30,7 @@ MODELNM=['drat']
 WATERMRK='DEBUG'
 
 exp=[exp1,exp2,exp3,exp4,exp5,exp6]
-
+#exp=[]
 
 RAMI_MODEL_TESTER,exp,MEASLIST,MODELNM,watermark=WATERMRK,/prps,USR_INDIR=USR_INDIR,REF_INDIR=REF_INDIR,OUTDIR=OUTDIR,VALEXPFILE=VALEXPFILE,VALMESFILE=VALMESFILE,REFTAG=REFTAG,REFMODNM=REFMODNM,enveloppe=[1.0,2.5,5.0],/rms,/nobwjpeg,/skill,/snr,/copyright
 
