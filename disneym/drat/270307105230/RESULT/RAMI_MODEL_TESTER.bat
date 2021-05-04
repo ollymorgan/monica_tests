@@ -10,7 +10,7 @@ exp5=['HET03_STO_UNI_RED_40','HET05_STO_UNI_RED_20','HET06_STO_UNI_NIR_40']
 exp6=['HET03_STO_UNI_NIR_40','HET05_STO_UNI_NIR_20']
 
 MEASLIST=['brfop_co_sgl','brfop_uc_sgl','brfpp_co_sgl','brfop','brfop_mlt','brfpp','brfpp_mlt','brfpp_uc_sgl']
-;'brf1',
+;'brf1',  this was removed because reports indicated missing files MES
 
 USR_INDIR=['/home/robusmo/ROMC/testDeploy/input/disneym/drat/270307105230/DATA/']
 REF_INDIR='/home/robusmo/ROMC/DATA/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HET/'
