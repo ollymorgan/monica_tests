@@ -16,7 +16,11 @@ MEASLIST=['brfop_mlt','brfop_co_sgl','brfpp_co_sgl','brfpp_mlt','brfpp','brfop_u
 
 USR_INDIR=['/home/robusmo/projects/ROMC/USERS_idl/meyniej/dartTest1/090518141846/DATA/']
 REF_INDIR='/home/robusmo/projects/ROMC/USERS_idl/input/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HOM/'
-OUTDIR='/home/robusmo/projects/ROMC/USERS_idl/meyniej/dartTest1/090518141846/RESULT/'
+;OUTDIR='/home/robusmo/projects/ROMC/USERS_idl/meyniej/dartTest1/090518141846/RESULT/'
+
+OUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/meyniej_dt_1/IDL/'
+PYOUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/meyniej_dt_1/python/'
+
 VALEXPFILE='/home/robusmo/projects/ROMC/USERS_idl/input/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
 VALMESFILE='/home/robusmo/projects/ROMC/USERS_idl/input/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
 REFTAG='dartTest1_090518141846'
