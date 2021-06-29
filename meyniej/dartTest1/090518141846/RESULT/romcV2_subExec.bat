@@ -18,8 +18,8 @@ USR_INDIR=['/home/robusmo/projects/ROMC/USERS_idl/meyniej/dartTest1/090518141846
 REF_INDIR='/home/robusmo/projects/ROMC/USERS_idl/input/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HOM/'
 ;OUTDIR='/home/robusmo/projects/ROMC/USERS_idl/meyniej/dartTest1/090518141846/RESULT/'
 
-OUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/meyniej_dt_1/IDL/'
-PYOUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/meyniej_dt_1/python/'
+OUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/meyniej_dt1_0/IDL/'
+PYOUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/meyniej_dt1_0/python/'
 
 VALEXPFILE='/home/robusmo/projects/ROMC/USERS_idl/input/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
 VALMESFILE='/home/robusmo/projects/ROMC/USERS_idl/input/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
