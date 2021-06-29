@@ -1,4 +1,5 @@
-.r /home/robusmo/projects/ROMC/USERS_idl/input/RAMI_MODEL_TESTER.pro
+;.r /home/robusmo/projects/ROMC/USERS_idl/input/RAMI_MODEL_TESTER.pro
+.r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
 
 set_plot,'NULL'
 exp1=['HOM05_TUR_ERE_NR1_30','HOM03_TUR_PLA_RED_20','HOM03_TUR_PLA_RED_50']
