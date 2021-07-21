@@ -1,4 +1,5 @@
-.r /home/robusmo/projects/ROMC/USERS_pyV2/CODE/IDL/RAMI_MODEL_TESTER.pro
+;.r /home/robusmo/projects/ROMC/USERS_pyV2/CODE/IDL/RAMI_MODEL_TESTER.pro
+.r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
 
 set_plot,'NULL'
 exp1=['HOM02_TUR_ERE_NR1_60','HOM02_TUR_PLA_NR1_30','HOM03_TUR_UNI_RED_20']
@@ -24,8 +25,14 @@ MEASLIST=['brf1','brfop_co_sgl','brfpp_co_sgl','brfpp_mlt','brfpp_uc_sgl','brfop
 
 USR_INDIR=['/home/robusmo/projects/ROMC/USERS_pyV2/gobrona/discret/270307162237/DATA/']
 REF_INDIR='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HOM/'
-PYOUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/gobrona/discret/270307162237/RESULT/'
-OUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/gobrona/discret/270307162237/RESULT/'
+
+;PYOUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/gobrona/discret/270307162237/RESULT/'
+;OUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/gobrona/discret/270307162237/RESULT/'
+
+OUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/gobrona/discret/270307162237/IDL/'
+PYOUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/gobrona/discret/270307162237/python/'
+
+
 VALEXPFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
 VALMESFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
 REFTAG='discret_270307162237'

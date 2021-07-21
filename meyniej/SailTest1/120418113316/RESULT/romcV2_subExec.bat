@@ -1,4 +1,5 @@
-.r /home/robusmo/projects/ROMC/USERS_pyV2/CODE/IDL/RAMI_MODEL_TESTER.pro
+;.r /home/robusmo/projects/ROMC/USERS_pyV2/CODE/IDL/RAMI_MODEL_TESTER.pro
+.r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
 
 set_plot,'NULL'
 exp1=['HOM01_TUR_ERE_NR1_30','HOM05_TUR_ERE_NR1_60','HOM01_TUR_ERE_NR1_00']
@@ -15,8 +16,13 @@ MEASLIST=['brfpp']
 
 USR_INDIR=['/home/robusmo/projects/ROMC/USERS_pyV2/meyniej/SailTest1/120418113316/DATA/']
 REF_INDIR='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HOM/'
-PYOUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/meyniej/SailTest1/120418113316/RESULT/'
-OUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/meyniej/SailTest1/120418113316/RESULT/'
+;PYOUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/meyniej/SailTest1/120418113316/RESULT/'
+
+;OUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/meyniej/SailTest1/120418113316/RESULT/'
+OUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/meyniej/SailTest1/120418113316/IDL/'
+PYOUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/meyniej/SailTest1/120418113316/python/'
+
+
 VALEXPFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
 VALMESFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
 REFTAG='SailTest1_120418113316'
