@@ -41,7 +41,7 @@ REFMODNM='ROMCREF'
 MODELNM=['discret']
 WATERMRK='DEBUG'
 
-exp=[exp1,exp5,exp6,exp7,exp8,exp14,exp15,exp16]  ; exp2,exp3,exp4, exp9,exp10,exp11,exp12,exp13,exp17,exp18, 
+exp=[exp1,exp5,exp6,exp7,exp8,exp14,exp15,exp16, exp2,exp3,exp4, exp9,exp10,exp11,exp12,exp13,exp17,exp18]
 
 
 RAMI_MODEL_TESTER,exp,MEASLIST,MODELNM,watermark=WATERMRK,/prps,USR_INDIR=USR_INDIR,REF_INDIR=REF_INDIR,OUTDIR=OUTDIR,VALEXPFILE=VALEXPFILE,VALMESFILE=VALMESFILE,REFTAG=REFTAG,REFMODNM=REFMODNM,enveloppe=[1.0,2.5,5.0],/rms,/nobwjpeg,/skill,/snr,/copyright
