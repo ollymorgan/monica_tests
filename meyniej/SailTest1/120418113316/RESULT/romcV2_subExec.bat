@@ -16,8 +16,8 @@ MEASLIST=['brfpp']
 
 USR_INDIR=['/home/robusmo/projects/ROMC/USERS_pyV2/meyniej/SailTest1/120418113316/DATA/']
 REF_INDIR='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HOM/'
-;PYOUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/meyniej/SailTest1/120418113316/RESULT/'
 
+;PYOUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/meyniej/SailTest1/120418113316/RESULT/'
 ;OUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/meyniej/SailTest1/120418113316/RESULT/'
 OUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/meyniej/SailTest1/120418113316/IDL/'
 PYOUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/meyniej/SailTest1/120418113316/python/'

@@ -1,4 +1,5 @@
-.r /home/robusmo/projects/ROMC/USERS_pyV2/CODE/IDL/RAMI_MODEL_TESTER.pro
+;.r /home/robusmo/projects/ROMC/USERS_pyV2/CODE/IDL/RAMI_MODEL_TESTER.pro
+.r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
 
 set_plot,'NULL'
 exp1=['HET01_DIS_UNI_NIR_20','HET01_DIS_UNI_NIR_50','HET01_DIS_UNI_RED_20']
@@ -8,8 +9,14 @@ MEASLIST=['brfop','brfpp']
 
 USR_INDIR=['/home/robusmo/projects/ROMC/USERS_pyV2/RSman12/GOSAILT/071216055001/DATA/']
 REF_INDIR='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HET/'
-PYOUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/RSman12/GOSAILT/071216055001/RESULT/'
-OUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/RSman12/GOSAILT/071216055001/RESULT/'
+
+;PYOUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/RSman12/GOSAILT/071216055001/RESULT/'
+;OUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/RSman12/GOSAILT/071216055001/RESULT/'
+
+OUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/RSman12/GOSAILT/071216055001/IDL/'
+PYOUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/RSman12/GOSAILT/071216055001/python/'
+
+
 VALEXPFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
 VALMESFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
 REFTAG='GOSAILT_071216055001'
