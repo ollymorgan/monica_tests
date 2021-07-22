@@ -22,6 +22,7 @@ exp17=['HOM01_TUR_ERE_NR1_00','HOM02_TUR_PLA_NR1_00','HOM02_TUR_PLA_NR1_60']
 exp18=['HOM15_DIS_ERE_NR1_60']
 
 MEASLIST=['brf1','brfop_co_sgl','brfpp_co_sgl','brfpp_mlt','brfpp_uc_sgl','brfop','brfop_mlt','brfop_uc_sgl','brfpp','fabs','ftran']
+MEASLIST=['brfpp_co_sgl','brfpp_mlt','brfpp_uc_sgl','brfpp']
 
 USR_INDIR=['/home/robusmo/projects/ROMC/USERS_pyV2/gobrona/discret/270307162237/DATA/']
 REF_INDIR='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HOM/'
@@ -42,7 +43,7 @@ MODELNM=['discret']
 WATERMRK='DEBUG'
 
 exp=[exp1,exp5,exp6,exp7,exp8,exp14,exp15,exp16, exp2,exp3,exp4, exp9,exp10,exp11,exp12,exp13,exp17,exp18]
-
+exp=['HOM03_TUR_UNI_RED_20', 'HOM03_DIS_ERE_RED_20', 'HOM03_TUR_PLA_RED_50', 'HOM03_TUR_UNI_RED_50']
 
 RAMI_MODEL_TESTER,exp,MEASLIST,MODELNM,watermark=WATERMRK,/prps,USR_INDIR=USR_INDIR,REF_INDIR=REF_INDIR,OUTDIR=OUTDIR,VALEXPFILE=VALEXPFILE,VALMESFILE=VALMESFILE,REFTAG=REFTAG,REFMODNM=REFMODNM,enveloppe=[1.0,2.5,5.0],/rms,/nobwjpeg,/skill,/snr,/copyright
 
