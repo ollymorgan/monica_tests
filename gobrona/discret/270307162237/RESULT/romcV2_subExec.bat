@@ -31,6 +31,7 @@ REF_INDIR='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/REFERENCE_DATA/FORWARD/DE
 
 OUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/gobrona/discret/270307162237/IDL/'
 PYOUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/gobrona/discret/270307162237/python/'
+PYOUTDIR='/home/morgaol/sharejrcbox/python/'
 
 
 VALEXPFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
