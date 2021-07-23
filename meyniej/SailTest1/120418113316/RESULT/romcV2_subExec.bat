@@ -19,8 +19,8 @@ REF_INDIR='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/REFERENCE_DATA/FORWARD/DE
 
 ;PYOUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/meyniej/SailTest1/120418113316/RESULT/'
 ;OUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/meyniej/SailTest1/120418113316/RESULT/'
-OUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/meyniej/SailTest1/120418113316/IDL/'
-PYOUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/meyniej/SailTest1/120418113316/python/'
+OUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/meyniej/SailTest1/120418113316/IDL/'
+PYOUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/meyniej/SailTest1/120418113316/python/'
 
 
 VALEXPFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'

@@ -30,8 +30,8 @@ REF_INDIR='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/REFERENCE_DATA/FORWARD/DE
 ;PYOUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/gobrona/discret/270307162237/RESULT/'
 ;OUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/gobrona/discret/270307162237/RESULT/'
 
-OUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/gobrona/discret/subset/IDL/'
-PYOUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/gobrona/discret/subset/python/'
+OUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/gobrona/discret/subset/IDL/'
+PYOUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/gobrona/discret/subset/python/'
 ;PYOUTDIR='/home/morgaol/sharebox/python/'
 
 

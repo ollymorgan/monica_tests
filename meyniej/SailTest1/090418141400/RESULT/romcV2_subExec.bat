@@ -8,8 +8,8 @@ MEASLIST=['brfpp']
 
 USR_INDIR=['/home/robusmo/projects/ROMC/USERS_pyV2/meyniej/SailTest1/090418141400/DATA/']
 REF_INDIR='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HOM/'
-PYOUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/meyniej/SailTest1/090418141400/python/'
-OUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/meyniej/SailTest1/090418141400/IDL/'
+PYOUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/meyniej/SailTest1/090418141400/python/'
+OUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/meyniej/SailTest1/090418141400/IDL/'
 VALEXPFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
 VALMESFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
 REFTAG='SailTest1_090418141400'
