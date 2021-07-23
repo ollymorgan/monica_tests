@@ -17,8 +17,8 @@ VALMESFILE='/home/robusmo/ROMC/DATA/ROFC/ValidFiles/FORWARD/VALIDATE/ABSTRACT_CA
 ;USR_INDIR=['/home/robusmo/ROMC/testDeploy/input/hkoba/FLiES/081106082949/DATA/']
 ;REF_INDIR='/home/robusmo/ROMC/DATA/REFERENCE_DATA/FORWARD/VALIDATE/ABSTRACT_CASES/HET/'
 OUTDIR='/home/morgaol/MonicaTests/hkoba/FLiES/081106082949/RESULT/'
-OUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/HKOBA/3/IDL/'
-PYOUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/HKOBA/3/python/'
+OUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/HKOBA/3/IDL/'
+PYOUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/HKOBA/3/python/'
 
 REFTAG='FLiES_081106082949'
 REFMODNM='ROMCREF'

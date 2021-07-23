@@ -11,8 +11,8 @@ REF_INDIR='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/REFERENCE_DATA/FORWARD/DE
 ;PYOUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/robusmo/ciao/200618161541/RESULT/'
 ;OUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/robusmo/ciao/200618161541/RESULT/'
 
-PYOUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/ciao_flip/200618161541/python/'
-OUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/ciao_flip/200618161541/IDL/'
+PYOUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/ciao_flip/200618161541/python/'
+OUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/ciao_flip/200618161541/IDL/'
 
 VALEXPFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
 VALMESFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'

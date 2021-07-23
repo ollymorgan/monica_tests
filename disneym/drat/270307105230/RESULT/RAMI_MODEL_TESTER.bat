@@ -16,8 +16,8 @@ USR_INDIR=['/home/robusmo/ROMC/testDeploy/input/disneym/drat/270307105230/DATA/'
 REF_INDIR='/home/robusmo/ROMC/DATA/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HET/'
 
 OUTDIR='/srv/www/htdocs/ROMC/WWW/UPLOAD/USERS/disneym/drat/270307105230/RESULT/'
-OUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/disneym/IDL/'
-PYOUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/disneym/python/'
+OUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/disneym/IDL/'
+PYOUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/disneym/python/'
 VALEXPFILE='/srv/www/htdocs/ROMC/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
 VALMESFILE='/srv/www/htdocs/ROMC/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
 

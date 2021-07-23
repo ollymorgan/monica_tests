@@ -13,8 +13,8 @@ VALEXPFILE='/home/robusmo/ROMC/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EX
 VALMESFILE='/home/robusmo/ROMC/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
 
 OUTDIR='/home/morgaol/MonicaTests/hkoba/FLiES/081106022517/RESULT/'
-OUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/HKOBA/2/IDL/'
-PYOUTDIR='/home/lancoch/sharejrcbox/olivier/ROMC_Results/HKOBA/2/python/'
+OUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/HKOBA/2/IDL/'
+PYOUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/HKOBA/2/python/'
 REFTAG='081106022517'
 REFMODNM='ROMCREF'
 MODELNM=['FLiES']
