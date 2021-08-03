@@ -4,7 +4,7 @@
 set_plot,'NULL'
 exp1=['HET01_DIS_UNI_NIR_20']
 
-MODELNM1=['m2o','m2o','m2o']
+MODELNM1=['m2oA','m2oB','m2oC']
 
 USR_INDIR1=['/home/robusmo/ROMC/testDeploy/input/robusmo/m2o/270520112757/DATA/','/home/robusmo/ROMC/testDeploy/input/robusmo/m2o/270520120019/DATA/','/home/robusmo/ROMC/testDeploy/input/robusmo/m2o/270520114632/DATA/']
 
