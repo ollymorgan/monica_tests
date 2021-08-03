@@ -8,7 +8,7 @@ MODELNM1=['m2o','m2o','m2o']
 
 USR_INDIR1=['/home/robusmo/ROMC/testDeploy/input/robusmo/m2o/270520112757/DATA/','/home/robusmo/ROMC/testDeploy/input/robusmo/m2o/270520120019/DATA/','/home/robusmo/ROMC/testDeploy/input/robusmo/m2o/270520114632/DATA/']
 
-MEASLIST=['brfop']
+MEASLIST=['brfop', 'brfpp']
 
 REF_INDIR='/home/robusmo/ROMC/testDeploy/various//REFERENCE_DATA/FORWARD/DEBUG/RAMI3/all/'
 ;OUTDIR='/home/robusmo/ROMC/testDeploy/input/robusmo/COMPARISON/280520152839/'
