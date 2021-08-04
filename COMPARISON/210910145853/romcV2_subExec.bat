@@ -1,4 +1,5 @@
-.r /home/robusmo/projects/ROMC/USERS_pyV2/CODE/IDL/RAMI_MODEL_TESTER.pro
+;.r /home/robusmo/projects/ROMC/USERS_pyV2/CODE/IDL/RAMI_MODEL_TESTER.pro
+.r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
 
 set_plot,'NULL'
 
@@ -18,6 +19,10 @@ USR_INDIR=[USR_INDIR1]
 REF_INDIR='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HOM/'
 PYOUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/COMPARISON/210910145853/'
 OUTDIR='/home/robusmo/projects/ROMC/USERS_pyV2/COMPARISON/210910145853/'
+
+OUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/COMPARISON/210910145853/IDL/'
+PYOUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/COMPARISON/210910145853/python/'
+
 VALEXPFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
 VALMESFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
 REFTAG='4SAIL2_270307123919'
