@@ -7,7 +7,7 @@ exp1=['HOM13_DIS_PLA_RED_20']
 
 MODELNM1=['FLIGHT','LESS']
 
-MEASLIST=['brfpp']
+MEASLIST=['brfpp', 'brfop']
 
 
 MODELNM1=['FLIGHT','LESS']
