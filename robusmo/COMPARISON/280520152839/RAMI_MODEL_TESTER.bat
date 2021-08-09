@@ -13,8 +13,10 @@ MEASLIST=['brfop']
 REF_INDIR='/home/robusmo/ROMC/testDeploy/various//REFERENCE_DATA/FORWARD/DEBUG/RAMI3/all/'
 ;OUTDIR='/home/robusmo/ROMC/testDeploy/input/robusmo/COMPARISON/280520152839/'
 OUTDIR='/home/morgaol/MonicaTests/COMPARISON/280520152839/'
-OUTDIR='/home/lancoch/sharejrcbox/olivier//ROMC_Results/m2o/Comparison/IDL/'
-PYOUTDIR='/home/lancoch/sharejrcbox/olivier//ROMC_Results/m2o/Comparison/python/'
+
+OUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/m2o/Comparison/IDL/'
+PYOUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/m2o/Comparison/python/'
+
 VALEXPFILE='/home/robusmo/ROMC/testDeploy/various/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
 VALMESFILE='/home/robusmo/ROMC/testDeploy/various/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
 REFMODNM='ROMCREF'
