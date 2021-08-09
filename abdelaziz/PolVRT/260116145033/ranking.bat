@@ -26,7 +26,7 @@ exp=[exp1]
 
 rankfilnm='skill.txt'
 
-skilldir=[outdir]
+skilldir=[OUTDIR]
 ROMC_MODEL_RANKS,skilldir,MEASLIST,modelnm,REFTAG=reftag,OUTDIR=outdir,RANKFILNM=rankfilnm,VALMESFILE=valmesfile,watermark='DEBUG',/prps
 
 
