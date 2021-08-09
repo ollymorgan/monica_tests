@@ -1,5 +1,4 @@
 ;.r /home/robusmo/projects/ROMC/USERS_pyV2/CODE/IDL/RAMI_MODEL_TESTER.pro
-.r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
 .r /home/morgaol/ROMC/IDL/ROMC_MODEL_RANKS.pro
 
 set_plot,'NULL'
@@ -24,9 +23,6 @@ MODELNM=['PolVRT']
 WATERMRK='DEBUG'
 
 exp=[exp1]
-
-
-RAMI_MODEL_TESTER,exp,MEASLIST,MODELNM,watermark=WATERMRK,/prps,USR_INDIR=USR_INDIR,REF_INDIR=REF_INDIR,OUTDIR=OUTDIR,VALEXPFILE=VALEXPFILE,VALMESFILE=VALMESFILE,REFTAG=REFTAG,REFMODNM=REFMODNM,enveloppe=[1.0,2.5,5.0],/rms,/nobwjpeg,/skill,/snr
 
 rankfilnm='skill.txt'
 
