@@ -1,5 +1,6 @@
 ;.r /home/robusmo/projects/ROMC/USERS_pyV2/CODE/IDL/RAMI_MODEL_TESTER.pro
 .r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
+.r /home/morgaol/ROMC/IDL/ROMC_MODEL_RANKS.pro
 
 set_plot,'NULL'
 exp1=['HOM01_TUR_ERE_NR1_00']
