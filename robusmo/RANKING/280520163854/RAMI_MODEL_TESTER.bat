@@ -21,8 +21,8 @@ meslist=[meslist1]
 
 reftag='280520163854'
 OUTDIR='/home/morgaol/MonicaTests/280520163854/'
-OUTDIR='/home/lancoch/sharejrcbox/olivier//ROMC_Results/m2o/Ranking/IDL/'
-PYOUTDIR='/home/lancoch/sharejrcbox/olivier//ROMC_Results/m2o/Ranking/python/'
+OUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/m2o/Ranking/IDL/'
+PYOUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/m2o/Ranking/python/'
 valmesfile='/home/robusmo/ROMC/testDeploy/various/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
 
 ROMC_MODEL_RANKS,exp,meslist,modelnm,REFTAG=reftag,OUTDIR=outdir,RANKFILNM=rankfilnm,VALMESFILE=valmesfile,watermark='DEBUG',/prps
