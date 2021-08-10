@@ -14,7 +14,7 @@ RESDIR='/home/robusmo/projects/ROMC/USERS_pyV2/abdelaziz/PolVRT/260116145033/RES
 
 ;PYOUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/abdelaziz/PolVRT/260116145033/python/'
 ;OUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/abdelaziz/PolVRT/260116145033/IDL/'
-OUTDIR = './'
+OUTDIR = '/home/lancoch/sharejrcbox/olivier/AdHoc_Ranking/'
 
 VALEXPFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
 VALMESFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
