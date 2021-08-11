@@ -9,6 +9,8 @@ modelnm1=['prova','prova','prova','tete','lollo']
 modelnm=[modelnm1]
 reftag='110821110813'
 outdir='/data/USERS/v2/robusmo/RANKING/110821110813/'
+outdir='/home/morgaol/jrcbox_staging/ROMC_Results/prova/1/IDL/'
+pyoutdir='/home/morgaol/jrcbox_staging/ROMC_Results/prova/1/python/'
 rankfilnm='skill.txt'
 valmesfile='/var/www/romc.jrc.it/public_html/_www/data/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
 ROMC_MODEL_RANKS,exp,meslist,modelnm,REFTAG=reftag,OUTDIR=outdir,RANKFILNM=rankfilnm,VALMESFILE=valmesfile,watermark='DEBUG',/prps
