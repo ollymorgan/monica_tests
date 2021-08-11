@@ -12,8 +12,8 @@ OUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/COMPARISON/100821140850/IDL/'
 PYOUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/COMPARISON/100821140850/python/'
 
 
-VALEXPFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
-VALMESFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
+VALMESFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
+VALEXPFILE='/home/robusmo/projects/ROMC/USERS_pyV2/DATA/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
 REFMODNM='lollo'
 WATERMRK='DEBUG'
 exp=[exp1]
