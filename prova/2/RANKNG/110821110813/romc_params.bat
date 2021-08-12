@@ -1,4 +1,5 @@
-.r /var/www/romc.jrc.it/public_html/_www/_code/IDL/ROMC_MODEL_RANKS.pro
+;.r /var/www/romc.jrc.it/public_html/_www/_code/IDL/ROMC_MODEL_RANKS.pro
+.r /home/morgaol/ROMC/IDL/ROMC_MODEL_RANKS.pro
 set_plot,'NULL'
 exp1=['/home/morgaol/MonicaTests/prova/2/RANKNG/110821110813/1/','/home/morgaol/MonicaTests/prova/2/RANKNG/110821110813/2/','/home/morgaol/MonicaTests/prova/2/RANKNG/110821110813/3/','/home/morgaol/MonicaTests/prova/2/RANKNG/110821110813/4/','/home/morgaol/MonicaTests/prova/2/RANKNG/110821110813/5/']
 exp=[exp1]
