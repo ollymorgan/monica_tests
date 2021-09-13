@@ -1,5 +1,5 @@
 ;.r /home/robusmo/projects/ROMC/romcpy/code/romc2/IDL/ROMC_MODEL_RANKS.pro
-.r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
+.r /home/morgaol/ROMC/IDL/ROMC_MODEL_RANKS.pro
 
 set_plot,'NULL'
 exp1=['/home/robusmo/projects/ROMC/input/prova/130821103429/RESULT/','/home/robusmo/projects/ROMC/input/prova/130821103429/RESULT/']
