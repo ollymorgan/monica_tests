@@ -1,4 +1,6 @@
-.r /home/robusmo/projects/ROMC/romcpy/code/romc2/IDL/RAMI_MODEL_TESTER.pro
+;.r /home/robusmo/projects/ROMC/romcpy/code/romc2/IDL/RAMI_MODEL_TESTER.pro
+.r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
+
 set_plot,'NULL'
 exp1=['HET01_DIS_UNI_RED_20','HET01_DIS_UNI_RED_50'];
 MEASLIST=['brfop','brfpp']
@@ -7,6 +9,10 @@ MODELNM=['prova']
 REFTAG='prova_090921152020'
 REF_INDIR='/home/robusmo/projects/ROMC/USERS_idl/input/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HET/'
 OUTDIR='/home/robusmo/projects/ROMC/input/SUBMISSION/090921152020/RESULT/'
+
+OUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/sept21_SUB/IDL/'
+PYOUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/sept21_SUB/python/'
+
 VALEXPFILE='/home/robusmo/projects/ROMC/USERS_idl/input/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
 VALMESFILE='/home/robusmo/projects/ROMC/USERS_idl/input/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
 REFMODNM='ROMCREF'
