@@ -1,5 +1,5 @@
 ;
-.r /home/robusmo/projects/ROMC/romcpy/code/romc2/IDL/RAMI_MODEL_TESTER.pro
+.r /home/robusmo/projects/ROMC/USERS_pyV2/CODE/IDL/RAMI_MODEL_TESTER.pro
 ;.r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
 
 set_plot,'NULL'
