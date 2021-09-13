@@ -1,5 +1,5 @@
 ;.r /home/robusmo/projects/ROMC/romcpy/code/romc2/IDL/ROMC_MODEL_RANKS.pro
-.r /home/morgaol/ROMC/IDL/JLW_RAMI_MODEL_TESTER.pro
+.r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
 
 set_plot,'NULL'
 exp1=['/home/robusmo/projects/ROMC/input/prova/130821103429/RESULT/','/home/robusmo/projects/ROMC/input/prova/130821103429/RESULT/']
@@ -18,3 +18,6 @@ pyoutdir='/home/morgaol/jrcbox_staging/ROMC_Results/sept21_RNK/python/'
 rankfilnm='skill.txt'
 valmesfile='/home/robusmo/projects/ROMC/USERS_idl/input/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
 ROMC_MODEL_RANKS,exp,meslist,modelnm,REFTAG=reftag,OUTDIR=outdir,RANKFILNM=rankfilnm,VALMESFILE=valmesfile,watermark='DEBUG',/prps
+
+EXIT
+
