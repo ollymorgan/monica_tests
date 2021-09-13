@@ -1,5 +1,6 @@
-;.r /home/robusmo/projects/ROMC/romcpy/code/romc2/IDL/RAMI_MODEL_TESTER.pro
-.r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
+;
+.r /home/robusmo/projects/ROMC/romcpy/code/romc2/IDL/RAMI_MODEL_TESTER.pro
+;.r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
 
 set_plot,'NULL'
 exp1=['HET01_DIS_UNI_RED_20','HET01_DIS_UNI_RED_50'];
