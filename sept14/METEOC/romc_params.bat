@@ -1,7 +1,10 @@
-HOME='/home/robusmo/projects/ROMC/romcpy/code/romc2/IDL/METEOC_Libraries/
+;HOME='/home/robusmo/projects/ROMC/romcpy/code/romc2/IDL/METEOC_Libraries/
+HOME='/home/morgaol/ROMC/IDL/METEOC_Libraries/
 !PATH=Expand_Path(HOME+'/funcs') + ':'  + Expand_Path(HOME+'/utils') + ':'+Expand_Path(HOME+'/coyote') + ':'+Expand_Path(HOME) + ':' +!PATH
-.r /home/robusmo/projects/ROMC/romcpy/code/romc2/IDL/METEOC_Libraries/METEOC_MODEL_TESTER.pro
-.r /home/robusmo/projects/ROMC/romcpy/code/romc2/IDL/METEOC_Libraries/romcread.pro
+;.r /home/robusmo/projects/ROMC/romcpy/code/romc2/IDL/METEOC_Libraries/METEOC_MODEL_TESTER.pro
+;.r /home/robusmo/projects/ROMC/romcpy/code/romc2/IDL/METEOC_Libraries/romcread.pro
+.r /home/morgaol/ROMC/IDL/METEOC_Libraries/METEOC_MODEL_TESTER.pro
+.r /home/morgaol/ROMC/IDL/METEOC_Libraries/romcread.pro
 
 set_plot,'NULL'
 exp1=['ART01_NAC_IPP_000_00];
