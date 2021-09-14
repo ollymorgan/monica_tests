@@ -11,6 +11,10 @@ MODELNM=['prova']
 REFTAG='prova_140921155409'
 REF_INDIR='/home/robusmo/projects/ROMC/USERS_idl/input/REFERENCE_DATA/FORWARD/DEBUG/MetEOC/GOVAERTS/'
 OUTDIR='/home/robusmo/projects/ROMC/input/METEOC/140921155409/RESULT/'
+
+OUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/sept14/METEOC/IDL/'
+PYOUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/sept14/METEOC/python/'
+
 VALEXPFILE='/home/robusmo/projects/ROMC/USERS_idl/input/ROFC/ValidFiles/FORWARD/DEBUG/MetEOC/Valid_EXPERIMENTS_Types.txt'
 VALMESFILE='/home/robusmo/projects/ROMC/USERS_idl/input/ROFC/ValidFiles/FORWARD/DEBUG/MetEOC/Valid_MEASUREMENTS_Types.txt'
 REFMODNM='METEOCREF'
