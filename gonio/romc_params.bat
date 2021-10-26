@@ -1,16 +1,22 @@
 ;.rnew /data/USERS/V2/DATA/IDL/RAMI_MODEL_TESTER.pro
-.r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
+.r /home/morgaol/ROMC/IDL/METEOC_Libraries/RAMI_MODEL_TESTER.pro
+;.r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
 
 set_plot,'NULL'
 exp1=['ART01_NAC_IPP_000_00']
 
 MEASLIST=['gonio']
 
-USR_INDIR=['/data/USERS/V3/input/hmind/4SH/200215220346/DATA/']
-REF_INDIR='/data/USERS/V3/DATA/REFERENCE_DATA/FORWARD/DEBUG/MetEOC/GOVAERTS/'
-OUTDIR='/data/USERS/V3/input/hmind/4SH/200215220346/RESULT/'
-VALEXPFILE='/data/USERS/V3/DATA/ROFC/ValidFiles/FORWARD/DEBUG/MetEOC/Valid_EXPERIMENTS_Types.txt'
-VALMESFILE='/data/USERS/V3/DATA/ROFC/ValidFiles/FORWARD/DEBUG/MetEOC/Valid_MEASUREMENTS_Types.txt'
+;USR_INDIR=['/data/USERS/V3/input/hmind/4SH/200215220346/DATA/']
+USR_INDIR=['/home/morgaol/MonicaTests/gonio/']
+;REF_INDIR='/data/USERS/V3/DATA/REFERENCE_DATA/FORWARD/DEBUG/MetEOC/GOVAERTS/'
+REF_INDIR='/home/robusmo/projects/ROMC/USERS_idl/input/REFERENCE_DATA/FORWARD/DEBUG/MetEOC/GOVAERTS/'
+OUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/gonio/IDL/'
+PYOUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/gonio/python/'
+;VALEXPFILE='/data/USERS/V3/DATA/ROFC/ValidFiles/FORWARD/DEBUG/MetEOC/Valid_EXPERIMENTS_Types.txt'
+VALEXPFILE='/home/robusmo/projects/ROMC/USERS_idl/input/ROFC/ValidFiles/FORWARD/DEBUG/MetEOC/Valid_EXPERIMENTS_Types.txt'
+VALMESFILE='/home/robusmo/projects/ROMC/USERS_idl/input/ROFC/ValidFiles/FORWARD/DEBUG/MetEOC/Valid_MEASUREMENTS_Types.txt'
+;VALMESFILE='/data/USERS/V3/DATA/ROFC/ValidFiles/FORWARD/DEBUG/MetEOC/Valid_MEASUREMENTS_Types.txt'
 REFTAG='4SH_200215220346'
 REFMODNM='METEOCREF'
 MODELNM=['4SH']

@@ -1,4 +1,5 @@
-.r /home/robusmo/projects/ROMC/USERS_idl/input/RAMI_MODEL_TESTER.pro
+;.r /home/robusmo/projects/ROMC/USERS_idl/input/RAMI_MODEL_TESTER.pro
+.r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
 
 set_plot,'NULL'
 exp1=['OFC150_MED_UNI_VIS_99','OFC150_MED_UNI_NIR_83','OFC150_MED_UNI_VIS_60']
@@ -15,6 +16,11 @@ MEASLIST=['fabs','fref','ftran']
 USR_INDIR=['/home/robusmo/projects/ROMC/test/hmind/4SH/210416222334/DATA/']
 REF_INDIR='/home/robusmo/projects/ROMC/USERS_idl/input/REFERENCE_DATA//FORWARD/DEBUG/RAMI4PILPS/HET/'
 OUTDIR='/home/robusmo/projects/ROMC/test/hmind/4SH/210416222334/RESULT/'
+
+OUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/hmind/IDL/'
+PYOUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/hmind/python/'
+
+
 VALEXPFILE='/home/robusmo/projects/ROMC/USERS_idl/input/ROFC/ValidFiles/FORWARD/DEBUG/RAMI4PILPS/Valid_EXPERIMENTS_Types.txt'
 VALMESFILE='/home/robusmo/projects/ROMC/USERS_idl/input/ROFC/ValidFiles/FORWARD/DEBUG/RAMI4PILPS/Valid_MEASUREMENTS_Types.txt'
 REFTAG='4SH_210416222334'
