@@ -1,4 +1,6 @@
-.r /home/robusmo/projects/ROMC/romcpy/code/romc2/IDL/RAMI_MODEL_TESTER.pro
+;.r /home/robusmo/projects/ROMC/romcpy/code/romc2/IDL/RAMI_MODEL_TESTER.pro
+.r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
+
 
 set_plot,'NULL'
 exp1=['HOM03_DIS_ERE_NIR_20','HOM12_DIS_ERE_NR1_30','HOM15_DIS_ERE_NR1_30']
@@ -25,6 +27,8 @@ MEASLIST=['brf1','brfop_co_sgl','brfop','brfop_uc_sgl','brfpp_co_sgl','brfpp_mlt
 USR_INDIR=['/home/robusmo/projects/ROMC/input/verhoef/SAIL++/270307125234/DATA/']
 REF_INDIR='/home/robusmo/projects/ROMC/USERS_idl/input/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HOM/'
 OUTDIR='/home/robusmo/projects/ROMC/input/verhoef/SAIL++/270307125234/RESULT/'
+OUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/sail++/IDL/'
+PYOUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/sail++/python/'
 VALEXPFILE='/home/robusmo/projects/ROMC/USERS_idl/input/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
 VALMESFILE='/home/robusmo/projects/ROMC/USERS_idl/input/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
 REFTAG='SAIL++_270307125234'
