@@ -1,4 +1,5 @@
-.r /home/robusmo/projects/ROMC/USERS_idl/input/RAMI_MODEL_TESTER.pro
+;.r /home/robusmo/projects/ROMC/USERS_idl/input/RAMI_MODEL_TESTER.pro
+.r /home/morgaol/ROMC/IDL/RAMI_MODEL_TESTER.pro
 
 set_plot,'NULL'
 exp1=['HOM03_TUR_UNI_RED_50','HOM03_DIS_ERE_RED_20','HOM02_TUR_PLA_NR1_00']
@@ -25,6 +26,8 @@ MEASLIST=['brfpp_co_sgl','brfop_co_sgl','brfop_uc_sgl','brfpp_uc_sgl']
 USR_INDIR=['/home/robusmo/projects/ROMC/USERS_idl/abdelaziz/NADIM/070411154758/DATA/']
 REF_INDIR='/home/robusmo/projects/ROMC/USERS_idl/input/REFERENCE_DATA/FORWARD/DEBUG/RAMI3/HOM/'
 OUTDIR='/home/robusmo/projects/ROMC/USERS_idl/abdelaziz/NADIM/070411154758/RESULT/'
+OUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/NADIM/IDL/'
+PYOUTDIR='/home/morgaol/jrcbox_staging/ROMC_Results/NADIM/python/'
 VALEXPFILE='/home/robusmo/projects/ROMC/USERS_idl/input/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_EXPERIMENTS_Types.txt'
 VALMESFILE='/home/robusmo/projects/ROMC/USERS_idl/input/ROFC/ValidFiles/FORWARD/DEBUG/RAMI3/Valid_MEASUREMENTS_Types.txt'
 REFTAG='NADIM_070411154758'
